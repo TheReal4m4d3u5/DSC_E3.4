@@ -18,9 +18,7 @@ b. Add a new accident to the database; assume any values for required attributes
 c. Delete the Mazda belonging to “John Smith.”
 
 
-
 ![output](output.png)
-
 
 
 ![queries](queries.png)
